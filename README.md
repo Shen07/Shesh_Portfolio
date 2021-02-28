@@ -35,12 +35,11 @@
  6. The model was tuned to varying depth of tree.
  7. Opitmized the model exported for use as a REST API.
 
-**Performance**:
-Accuracy of the trained model on test data was 82%.
-The AUC score of trained model is 0.92 (Higher the better, max value = 1).
-The model has also been tested on latest July 2018 and August 2018 data and the prediction accuracy was 74%.
-
-
+**Performance metrics**:
+|    |precision      | recall   | f1-score |  
+|--------:|----------:| -------------:|:-------------:|
+|Not-Joined| 0.84| 0.76 |0.79
+|Joined |  0.89|  0.93 |0.91
 
 
 ![](/Images/RF_JP_Accuracy.png)
