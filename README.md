@@ -34,7 +34,7 @@
  5. Provided analytic support for work process improvements and resources optimization.
 
 
-![] Images/RF_JP_Accuracy.png
+![](Images/RF_JP_Accuracy.png)
 
 
 ## Project # 1: BMW Financial Services 
