@@ -33,8 +33,6 @@
  4. Built the company's first predictive model to better understand employee retention.
  5. Provided analytic support for work process improvements and resources optimization.
 
-
-
 ## Project # 1: BMW Financial Services 
 ***(Jun 2017 - Mar 2018)*** 
 
