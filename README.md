@@ -32,7 +32,7 @@
  3. The data was split in a way so as to maintain a balance in number of positives (Joined candidates) and negatives (Candidates who did not Join)
  4. Experimented with DecisionTrees and RandomForest. Since the data mostly consisted of categorical variables. Also Rf avoid the problem of overfitting and work well with small to medium amount of data.
  5. After several  runs and cross validation the best parameters which resulted in overall better performance of the the model were determined and the final model was trained on the data.
- 6. The model was tuned to varying depth of tree.
+ 6. The model was tuned to varying depth of tree as a hyper parameter.
  7. Opitmized the model exported for use as a REST API.
 
 **Performance metrics**:
