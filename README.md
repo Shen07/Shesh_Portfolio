@@ -22,32 +22,30 @@
 *(Apr-2018 to Sep 2019)*
 
 > **Objective**
-<p align="justify">The goal of this project was to differentiate the candidates and predict the probability of their joining using machine learning.</p>
+<p align="justify">The goal of this project was to classify the candidates and predict the probability of their joining using machine learning.</p>
 
 
 >**Roles and Responsibilities:**
 
- 1. Gathered and analyzed the data recruits over past three years.
-![image](https://user-images.githubusercontent.com/41985915/109428215-18485a80-7a1c-11eb-994d-d1bcba2e3451.png)
- to look for any patterns, determine the various factors involved and their relative importance.
- 2. 
- 3. For further simplification, few of the features were modified and others combined to form single feature.
- 4. 
- 5. 
- 6. 
- The data was split in a way so as to maintain a balance in number of positives (Joined candidates) and negatives (Candidates who did not Join).
-After several experimental runs and cross validation the best parameters which resulted in overall better performance of the the model were determined and the final model was trained on the data.
-The trained model is then saved and exported for use as a REST API.
+ 1. Gathered and analyzed the data recruits over past three years(200k+) to look for any patterns, determine the various factors involved and their relative importance.
+ 2. For further simplification, few of the features were modified and others combined to form a new single feature.***(feature engineering)****
+ 3. The data was split in a way so as to maintain a balance in number of positives (Joined candidates) and negatives (Candidates who did not Join)
+ 4. Experimented with DecisionTrees and RandomForest. Since the data mostly consisted of categorical variables. Also Rf avoid the problem of overfitting and work well with small to medium amount of data.
+ 5. After several  runs and cross validation the best parameters which resulted in overall better performance of the the model were determined and the final model was trained on the data.
+ 6. The model was tuned to varying depth of tree.
+ 7. Opitmized the model exported for use as a REST API.
 
-Performance:
+**Performance**:
 Accuracy of the trained model on test data was 82%.
 The AUC score of trained model is 0.92 (Higher the better, max value = 1).
 The model has also been tested on latest July 2018 and August 2018 data and the prediction accuracy was 74%.
-![image](https://user-images.githubusercontent.com/41985915/109427972-d9fe6b80-7a1a-11eb-900e-c88f798a928c.png)
+
 
 
 
 ![](/Images/RF_JP_Accuracy.png)
+![](/Images/AOC_curve.png)
+![](/Images/Confusion_matrix.png)
 
 
 ## Project # 1: BMW Financial Services 
