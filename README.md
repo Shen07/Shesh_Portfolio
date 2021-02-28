@@ -27,11 +27,24 @@
 
 >**Roles and Responsibilities:**
 
- 1. Gather and analyze the given data, to look for any patterns, determine the various factors involved and their relative importance.
- 2. Develop a model to understand the effect of variables on the joining rate trends.
- 3. Built fully parametric prediction model to estimate expected joining probabilities of the candidates. 
- 4. Built the company's first predictive model to better understand employee retention.
- 5. Provided analytic support for work process improvements and resources optimization.
+ 1. Gathered and analyzed the data recruits over past three years.
+![image](https://user-images.githubusercontent.com/41985915/109428215-18485a80-7a1c-11eb-994d-d1bcba2e3451.png)
+ to look for any patterns, determine the various factors involved and their relative importance.
+ 2. 
+ 3. For further simplification, few of the features were modified and others combined to form single feature.
+ 4. 
+ 5. 
+ 6. 
+ The data was split in a way so as to maintain a balance in number of positives (Joined candidates) and negatives (Candidates who did not Join).
+After several experimental runs and cross validation the best parameters which resulted in overall better performance of the the model were determined and the final model was trained on the data.
+The trained model is then saved and exported for use as a REST API.
+
+Performance:
+Accuracy of the trained model on test data was 82%.
+The AUC score of trained model is 0.92 (Higher the better, max value = 1).
+The model has also been tested on latest July 2018 and August 2018 data and the prediction accuracy was 74%.
+![image](https://user-images.githubusercontent.com/41985915/109427972-d9fe6b80-7a1a-11eb-900e-c88f798a928c.png)
+
 
 
 ![](/Images/RF_JP_Accuracy.png)
