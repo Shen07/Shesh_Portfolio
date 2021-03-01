@@ -9,7 +9,7 @@
 > **Objective**
 
  - <p align="justify">The goal of this project is to build a Framework, for segmentation of candidates using machine learning. Which would enable the business team to take decisions such as whether to invest, divest or harvest in candidates based upon the category they fall in.  </p>
- - Over the time, Evolve the framework into a sort of recommendation system.</p>
+ - Over the time, Evolve the framework into a sort of recommendation system.
 
 
 > **Roles and Responsibilities:**
