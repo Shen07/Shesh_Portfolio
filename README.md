@@ -26,7 +26,7 @@
  10. Interest scale was developed and the profiles were quantified accordingly 
  11. After the analysis the profiles were plotted on Cartesian co-ordinates with skill and interest as axes to identify clusters across all quadrants.
 
-![](/Images/Candidate_Profile_POI.png)
+![](/Images/Candidate_Profile_POI_r.png)
 ![](/Images/POI cluster.png)
 
 
