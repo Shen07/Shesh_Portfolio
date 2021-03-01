@@ -3,7 +3,7 @@
 
 ## Project 3: POI *(Person of Interest)*
 *(Sep 2019 to present)*
-![](/Images/tcs_logo.png=80x80)
+![](/Images/tcs_logo.png =80x80)
 
 
 > **Objective**
@@ -26,12 +26,12 @@
  10. Interest scale was developed and the profiles were quantified accordingly 
  11. After the analysis the profiles were plotted on Cartesian co-ordinates with skill and interest as axes to identify clusters across all quadrants.
 
-![](/Images/Candidate_Profile_POI_r.png)
 
+![](/Images/Candidate_Profile_POI_r.png)
 ![](/Images/POI cluster.png)
 
 
-## [](/Images/tcs_logo.png) Project 2: Joining Predictor 
+## Project 2: Joining Predictor 
 *(Apr-2018 to Sep 2019)*
 
 > **Objective**
@@ -67,7 +67,7 @@
 
 
 
-## [](/Images/tcs_logo.png) Project # 1: BMW Financial Services 
+## Project # 1: BMW Financial Services 
 ***(Jun 2017 - Mar 2018)*** 
 
 >**Roles and Responsibilities:**  
