@@ -39,6 +39,7 @@
 **Performance metrics**:
 
 |    |precision      | recall   | f1-score |  
+
 |--------:|----------:| -------------:|:-------------:|
 |Not-Joined| 0.84| 0.76 |0.79
 |Joined |  0.89|  0.93 |0.91
