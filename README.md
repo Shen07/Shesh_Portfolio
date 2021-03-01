@@ -1,7 +1,7 @@
 
 
 
-## Project 3: POI *(Person of Interest)*
+## ![](/Images/tcs_logo.png) Project 3: POI *(Person of Interest)*
 *(Sep 2019 to present)*
 
 
@@ -30,7 +30,7 @@
 ![](/Images/POI cluster.png)
 
 
-## Project 2: Joining Predictor 
+## [](/Images/tcs_logo.png) Project 2: Joining Predictor 
 *(Apr-2018 to Sep 2019)*
 
 > **Objective**
@@ -50,7 +50,7 @@
 
 **Performance metrics**:
 
-|    |precision      | recall   | f1-score |  
+|    |precision| recall   | f1-score |  
 
 |--------:|----------:| -------------:|:-------------:|
 |Not-Joined| 0.84| 0.76 |0.79
@@ -67,7 +67,7 @@
 
 '''
 
-## Project # 1: BMW Financial Services 
+## [](/Images/tcs_logo.png) Project # 1: BMW Financial Services 
 ***(Jun 2017 - Mar 2018)*** 
 
 >**Roles and Responsibilities:**  
