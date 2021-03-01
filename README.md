@@ -80,3 +80,13 @@
 
 **Note**`: Due to confidentiality and privacy policy of the company, the data shown in some of the images is only for reference and do not represent the actual data in any form. `
 
+
+
+
+>**My other open source ML projects can be found [here](https://github.com/Shen07/MyMLrepo/tree/main)**
+
+
+
+
+
+
