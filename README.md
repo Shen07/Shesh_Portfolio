@@ -3,7 +3,6 @@
 
 ## Project 3: POI *(Person of Interest)*
 *(Sep 2019 to present)*
-![](/Images/tcs_logo.png =80x80)
 
 
 > **Objective**
