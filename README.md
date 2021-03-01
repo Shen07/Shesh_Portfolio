@@ -1,7 +1,7 @@
 
 
 
-## ![](/Images/tcs_logo.png) Project 3: POI *(Person of Interest)*
+## Project 3: POI *(Person of Interest)*
 *(Sep 2019 to present)*
 
 
@@ -50,7 +50,7 @@
 
 **Performance metrics**:
 
-|    |precision| recall   | f1-score |  
+|         |precision| recall   | f1-score |  
 
 |--------:|----------:| -------------:|:-------------:|
 |Not-Joined| 0.84| 0.76 |0.79
@@ -65,7 +65,7 @@
 
 
 
-'''
+
 
 ## [](/Images/tcs_logo.png) Project # 1: BMW Financial Services 
 ***(Jun 2017 - Mar 2018)*** 
