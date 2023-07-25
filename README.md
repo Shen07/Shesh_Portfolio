@@ -2,7 +2,7 @@
 
 
 ## Project 3: POI *(Person of Interest)*
-*(Sep 2019 to present)*
+*(Sep 2019 to 2021)*
 
 
 > **Objective**
